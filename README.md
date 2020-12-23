@@ -13,7 +13,7 @@
 참고 : https://github.com/monologg/KoELECTRA
        https://heegyukim.medium.com/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af
  
-  ### 2) 머신러닝 모델 VOTINGR 기반 CLASSIFICATION
+  ### 2) 머신러닝 모델 VOTING 기반 CLASSIFICATION
       NSMC_ML_TFIDF_VOTE.ipynb
   
   * 평가 파일 본인 구글드라이브 저장(ko_data.csv)
@@ -30,7 +30,7 @@
        https://github.com/jiwonny/nlp_emotion_classification
   
   
-   ### 2) 머신러닝 모델 VOTINGR 기반 CLASSIFICATION
+   ### 2) 머신러닝 모델 VOTING 기반 CLASSIFICATION
       FRIENDS_ML_TFIDF_VOTE.ipynb
       
    * 본인 구글드라이브에 EmotionLines_friends_annotation.tar.gz 저장
