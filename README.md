@@ -25,8 +25,7 @@
    * 본인 구글드라이브에 EmotionLines_friends_annotation.tar.gz 저장
    * 평가 파일 본인 구글드라이브 저장(en_data.csv) 
    
-참고 : <https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP>
-      <https://github.com/jiwonny/nlp_emotion_classification>
+참고 : <https://github.com/jiwonny/nlp_emotion_classification>
   
   
    ### 2) 머신러닝 모델 VOTING 기반 CLASSIFICATION
